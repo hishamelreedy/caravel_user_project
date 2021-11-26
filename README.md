@@ -1,11 +1,12 @@
-# Caravel User Project
+# SSCS_PICO_chip5
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![UPRJ_CI](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml) [![Caravel Build](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml)
+Digital and Analog Design Merge for IEEE SSCS PICO Competition
 
-| :exclamation: Important Note            |
-|-----------------------------------------|
+1. USA2: Design details can be found here: https://github.com/omiya2106/DeepSAC
+2. EGYPT: Design details can be found here: https://github.com/hishamelreedy/BandGapReference_sky130
 
-## Please fill in your project documentation in this README.md file 
+# Caravel: user_project wrapper with merged design 
+![caravel_user_project](https://user-images.githubusercontent.com/48494146/143287042-6d39a467-84fe-4726-a619-12f921375f37.PNG)
 
-
-Refer to [README](docs/source/index.rst) for this sample project documentation. 
+# Caravel Hardening 
+![caravel](https://user-images.githubusercontent.com/48494146/143287100-8755467c-0d4c-4672-a948-c36df9872039.PNG)
